@@ -6,7 +6,7 @@
 * * "lechon baboy" by "dbgg1979" Account: https://www.flickr.com/people/dbgg1979/  License : https://creativecommons.org/licenses/by/2.0/
 * * "bulalo" by "louis r" Account: https://www.flickr.com/people/mobile247/ License: https://creativecommons.org/licenses/by-nc-nd/2.0/
 * * "Sizzling Sisig with Egg" by "Chip Sillesa"  Account: https://www.flickr.com/people/chipsillesa/ License: https://creativecommons.org/licenses/by-nc-nd/2.0/
-* * "Lumpia" by "Allan Reyes" Account: https://www.flickr.com/people/pixeleden/
+* * "Lumpia" by "Allan Reyes" Account: https://www.flickr.com/people/pixeleden/ License:https://creativecommons.org/licenses/by-nc-nd/2.0/
 * (15/05/24) I have finish the second section and the third section. Trying to think what needs to be done in fourth section and the footer. 
 * * Note! when minizing the window,the contents gets crush! 
 * * Note! It may not good, but I will learn and improve!
